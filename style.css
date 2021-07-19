@@ -1,0 +1,17 @@
+.body_backgorund {
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+h1
+{
+	color: teal; 
+	font-size: 40px;
+}
+
+#MyCanvas{
+	background-color: bisque;
+	border-style: ridge;
+	border-width: 10px;
+}
